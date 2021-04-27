@@ -23,6 +23,7 @@ B. student["Grad Year"]
 C. student.greeting()
 D. student["Favorite Teacher"].name
 E. student.courseload[0]
+
 13. 
 A. '32' the string turns the int 2 into a string and concatenates
 B. 1    turns 3 into an int 
@@ -32,6 +33,7 @@ E. 4        turns into an arithmetic process where the value of true is 1
 F. 0        turns into an arithmetic process where the value of false is 0
 G. '3undefined'   undefined becomes a strings and concatenates
 H. NaN      turns into an arithmetic process
+
 14.     
 A. true             arithmetic process where 2 is bigger then 1
 B. false        arithmetic process
@@ -39,10 +41,13 @@ C. true     compares 2 variables without taking datatype into account
 D. false    compares datatype
 E. false    since true has value 1 it doesn't equal 2
 F. true     boolean(2) has value true
+
 15. == compares 2 variables but ignores the datatypes
 === compares 2 variables but takes the datatypes into account
+
 17.  2,4,6
 before it pushed the value into newArr it doubles the value of the variable so it would put 2,4,6 into the array
+
 19. 
 1
 4
